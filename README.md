@@ -3,3 +3,7 @@ This is the implementation of our "Structure Recovery from Single Omnidirectiona
 
 # Method overview
 ![Overview](https://github.com/mmlph/OmniSRNet/assets/13580379/4359d949-4ef7-48a8-a132-c680fc8d0424)
+
+# Prerequisites
+Ubuntu20
+NVIDIA GPU + CUDA CuDNN
