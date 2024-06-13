@@ -7,6 +7,21 @@ This is the implementation of our "Structure Recovery from Single Omnidirectiona
 # Prerequisites
 Ubuntu20 
 NVIDIA GPU + CUDA CuDNN
+pytorch 1.8.1 with python 3.7.6
+<details>
+  <summary> Dependencies (click to expand) </summary>
+
+   - numpy
+   - scipy
+   - sklearn
+   - Pillow
+   - tqdm
+   - tensorboardX
+   - opencv-python>=3.1 (for pre-processing)
+   - pylsd-nova
+   - open3d>=0.7 (for layout 3D viewer)
+   - shapely
+</details>
 # Datasets(IOSR)
 （1）Panorama
     - PanoContext/Stanford2D3D Dataset
