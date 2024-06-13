@@ -29,4 +29,4 @@ pytorch 1.8.1 with python 3.7.6
     - Structured3D Dataset
     - See [the tutorial](https://github.com/sunset1995/HorizonNet/blob/master/README_ST3D.md#dataset-preparation) to prepare training/validation/testing.
 （2）Fisheye
-    PanoContext-F，Stanford2D3D-F and Structured3D-F are converted from the optimized panorama images by pano2fish.py
+    PanoContext-F，Stanford2D3D-F and Structured3D-F are converted from the optimized panorama images by pano2fish(main.cpp)
